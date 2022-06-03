@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /includes/pub
+  - /include/pub.html
+---
+
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 
