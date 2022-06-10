@@ -9,27 +9,27 @@
 
 **[PR’22]** Xian-bin Ye, Quanlong Guan, Weiqi Luo, Liangda Fang, Zhao-Rong Lai, **Jun Wang**. Molecular substructure graph attention network for molecular property identification in drug discovery, Pattern Recognition, 2022. (SCI，IF:7.7)
 
-**[ACS‘22]** **Jun Wang**, Zhoujing Li, Yixuan Qiao, Qiming Qin, Peng Gao, Guotong Xie. Superpixel-Based Building Damage Detection from Post-earthquake Very High Resolution Imagery Using Deep Neural Networks, arXiv preprint arXiv:2112.04744, 2022.
+**[arxiv‘22]** **Jun Wang**, Zhoujing Li, Yixuan Qiao, Qiming Qin, Peng Gao, Guotong Xie. Superpixel-Based Building Damage Detection from Post-earthquake Very High Resolution Imagery Using Deep Neural Networks, arXiv preprint arXiv:2112.04744, 2022.
 
-**[GLB WWW‘22]** Xianbin Ye, Ziliang Li, Fei Ma, Zongbi Yi, **Jun Wang**(corresponding author), Pengyong Li, Peng Gao, Guotong Xie. CandidateDrug4Cancer: An Open Molecular Graph Learning Benchmark on Drug Discovery for Cancer, The Web Conference 2021, Workshop on Graph Learning Benchmarks, 2021.
+**[GLB WWW‘21]** Xianbin Ye, Ziliang Li, Fei Ma, Zongbi Yi, **Jun Wang**(corresponding author), Pengyong Li, Peng Gao, Guotong Xie. CandidateDrug4Cancer: An Open Molecular Graph Learning Benchmark on Drug Discovery for Cancer, The Web Conference 2021, Workshop on Graph Learning Benchmarks, 2021.
 
-**[BIB‘22]** Pengyong Li, **Jun Wang**(corresponding author), Yixuan Qiao, Hao Chen, Yihuan Yu, Xiaojun Yao, Peng Gao, Guotong Xie, Sen Song. An effective self-supervised framework for learning expressive molecular global representations to drug discovery, Briefings in Bioinformatics, 2021. (SCI，IF:11.6)
+**[BIB‘21]** Pengyong Li, **Jun Wang**(corresponding author), Yixuan Qiao, Hao Chen, Yihuan Yu, Xiaojun Yao, Peng Gao, Guotong Xie, Sen Song. An effective self-supervised framework for learning expressive molecular global representations to drug discovery, Briefings in Bioinformatics, 2021. (SCI，IF:11.6)
 
-**[IJCAI‘22]** Pengyong Li, **Jun Wang**(co-fisrt author),Yixuan Qiao, Peng Gao, Seng Song, Guotong Xie. Pairwise Subgraph Discrimination: Self-supervised Strategy for Graph-level Representation Learning, IJCAI, 2021. (Top AI conference , rate 13.9%)
+**[IJCAI‘21]** Pengyong Li, **Jun Wang**(co-fisrt author),Yixuan Qiao, Peng Gao, Seng Song, Guotong Xie. Pairwise Subgraph Discrimination: Self-supervised Strategy for Graph-level Representation Learning, IJCAI, 2021. (Top AI conference , rate 13.9%)
 
-**[arxiv‘22]** Pengyong Li, **Jun Wang**(corresponding author), Peng Gao, Seng Song, Guotong Xie. Learn molecular representations from large-scale unlabeled molecules for drug discovery, arXiv, 2021.
+**[arxiv‘21]** Pengyong Li, **Jun Wang**(corresponding author), Peng Gao, Seng Song, Guotong Xie. Learn molecular representations from large-scale unlabeled molecules for drug discovery, arXiv, 2021.
 
 **[TextVQA‘21]** Yixuan Qiao, Hao Chen, **Jun Wang**, Yihao Chen, Xianbin Ye, Ziliang Li, Xianbiao Qi, Peng Gao, Guotong Xie. Winner Team Mia at TextVQA Challenge 2021: Vision-and-Language Representation Learning with Pre-trained Sequence-to-Sequence Model, arXiv preprint arXiv:2106.15332, 2021. (Winner at TextVQA 2021)
 
 **[NeuroComputing‘20]** **Jun Wang**(co-fisrt author), Zhang cheng, Gao Peng, Xie Guotong, He Jian. Automated Vertebral Landmarks and Spinal Curvature Estimation using Non-directional Part Affinity Fields. NeuroComputing, 2020. (SCI, IF: 5.7)
 
-**[TREC‘20]** Yixuan Qiao, Hao Chen, Liyu Cao, Liping Chen, Pengyong Li, **Jun Wang**, Peng Gao, Yuan Ni, Guotong Xie. PASH at TREC 2020 Deep Learning Track: Dense Matching for Nested Ranking. TREC, 2020.
+**[TREC‘20]** Yixuan Qiao, Hao Chen, Liyu Cao, Liping Chen, Pengyong Li, **Jun Wang**, Peng Gao, Yuan Ni, Guotong Xie. PASH at TREC 2020 Deep Learning Track: Dense Matching for Nested Ranking. TREC, 2020. (Winner)
 
 **[BMVC‘20]** **Jun Wang**, Wen Shaoguo, Gao Peng, Xie Guotong. Semi-supervised Active Learning for Medical Instance Segmentation via Scoring Predictions. BMVC, 2020. ( Top CV conference, rate 29%)
 
 **[ISBI‘20]** Suhui Yang, Xia Zhou, **Jun Wang**, Peng Gao, Guotong Xie. Unsupervised Domain Adaptation for Cross-Device OCT Lesion Detection via Learning Adaptive Features. International Symposium on Biomedical Imaging (ISBI), 2020.(EI)
 
-**[GRSL‘20]** Xin Ye, Mingchao Liu, **Jun Wang**, Qiming Qin, Huazhong Ren. Building-based damage detection from postquake image using multiple-feature analysis. IEEE Geoscience and Remote Sensing Letters, 2017. (SCI，IF: 3.8)
+**[GRSL‘20]** Xin Ye, Mingchao Liu, **Jun Wang**, Qiming Qin, Huazhong Ren. Building-based damage detection from postquake image using multiple-feature analysis. IEEE Geoscience and Remote Sensing Letters, 2017. (SCI，IF: 4.0)
 
 **[RSTA‘16]** **Jun Wang**, Qiming Qin, Xin Ye, Jianhhua Wang, Xuebin Qin, Xiucheng Yang. A Survey of Building Extraction Methods from Optical High Resolution Remote Sensing Imagery. Remote Sensing Technology and Application. 2016.
 
@@ -37,15 +37,17 @@
 
 **[IAPRS‘16]** **Jun Wang**, Xin Ye, Qiming Qin. A Progressive Feedback Strategy to Jointly Combine Remote Sensing Image Segmentation and Object Recognition. IAPRS, 2016. (EI).
 
-**[GRSL‘16]** Xiucheng Yang, **Jun Wang**, Xuebin Qin, Qiming Qin. A rapid matching approach for large-scale urban imagery. IEEE Geoscience and Remote Sensing Letters, 2016. (SCI，IF: 3.8)
+**[GRSL‘16]** Xiucheng Yang, **Jun Wang**, Xuebin Qin, Qiming Qin. A rapid matching approach for large-scale urban imagery. IEEE Geoscience and Remote Sensing Letters, 2016. (SCI，IF: 4.0)
 
 **[GRSM‘15]** Xiucheng Yang, **Jun Wang**, Xuebin Qin, Xin Ye. Fast urban aerial image matching based on rectangular building extraction. IEEE Geoscience and Remote Sensing Magazine 2015, 3(4), 21-27. (SCI，IF: 8.2)
 
-**[RS‘15]** Xiucheng Yang, Xuebin Qin, **Jun Wang**, Xin Ye, Qiming Qin. Building Façade Recognition Using Oblique Aerial Images. Remote Sensing. 2015: 8: 10562-10588. (SCI，IF：4.5)
+**[RS‘15]** Xiucheng Yang, Xuebin Qin, **Jun Wang**, Xin Ye, Qiming Qin. Building Façade Recognition Using Oblique Aerial Images. Remote Sensing. 2015: 8: 10562-10588. (SCI，IF：4.8)
 
 **[IGARSS‘15]** **Jun Wang**, Qiming Qin, Zhoujing Li, Xin Ye, Jianhua Wang, Xiucheng Yang, Xuebin Qin. Deep hierarchical representation and segmentation of high resolution remote sensing images. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2015. (EI / ISTP) 
 
-**[GRSL‘14]** **Jun Wang**, Xiucheng Yang, Xuebin Qin, Xin Ye, Qiming Qin. An Efficient Approach for Automatic Rectangular Building Extraction from Very High Resolution Optical Satellite Imagery. IEEE Geoscience and Remote Sensing Letters, 2014, 12(3):487-491. (SCI，IF: 3.8) 
+**[GRSL‘14]** **Jun Wang**, Xiucheng Yang, Xuebin Qin, Xin Ye, Qiming Qin. An Efficient Approach for Automatic Rectangular Building Extraction from Very High Resolution Optical Satellite Imagery. IEEE Geoscience and Remote Sensing Letters, 2014, 12(3):487-491. (SCI，IF: 4.0) 
+
+**[IJRS'14]** Chao Chen, Qiming Qin, Ning Zhang, Jun Li, Li Chen, **Jun Wang**, Xuebin Qin, Xiucheng Yang. Extraction of bridges over water from high-resolution optical remote-sensing images based on mathematical morphology. International Journal of Remote Sensing, 2014, 35(10). (SCI，IF: 3.2) 
 
 **[IGARSS‘14]** **Jun Wang**, Xuebin Qin, Xiucheng Yang, Zhongling Gao, Qiming Qin. Hyperspectral Predicting Model of Soil Salinity in Tianjin Costal Area Using Partial Least Square Regression. IEEE IGARSS, 2014: 3251-3254. (EI / ISTP)
 
@@ -55,6 +57,8 @@
 
 **[IGARSS‘13]** **Jun Wang**, Zhoujing Li, Xuebin Qin, Xiucheng Yang, Qiming Qin, Ning Zhang. Research on Dynamic Evolution of Soil Salinization in Tianjin Costal Area Using Remote Sensing. IEEE IGARSS, 2013: 3325-3328. (EI / ISTP) 
 
+
+# 📝 Patents 
 
 **[Patent]** A method and system for extracting rectangular buildings based on high-resolution remote sensing images.
 
