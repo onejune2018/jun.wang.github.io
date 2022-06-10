@@ -3,7 +3,7 @@
 
 **[arxiv‘22]** Yixuan Qiao, Hao Chen, Yongquan Lai, **Jun Wang**, Tuozhen Liu, Xianbin Ye, Rui Fang, Peng Gao, Wenfeng Xie, Guotong Xie. PASH at TREC 2021 Deep Learning Track: Generative Enhanced Model for Multi-stage Ranking, arXiv preprint arXiv:2205.11245, 2022.
 
-**[arxiv’22]** Changyu Hou, **Jun Wang**(corresponding author), Yixuan Qiao, Peng Jiang, Peng Gao, Guotong Xie, Qizhi Lin, Xiaopeng Wang, Xiandi Jiang, Benqi Wang, Qifeng Xiao. SFE-AI at SemEval-2022 Task 11: Low-Resource Named Entity Recognition using Large Pre-trained Language Models, arXiv preprint arXiv:2205.14660, 2022.
+**[NAACL’22]** Changyu Hou, **Jun Wang**(corresponding author), Yixuan Qiao, Peng Jiang, Peng Gao, Guotong Xie, Qizhi Lin, Xiaopeng Wang, Xiandi Jiang, Benqi Wang, Qifeng Xiao. SFE-AI at SemEval-2022 Task 11: Low-Resource Named Entity Recognition using Large Pre-trained Language Models, arXiv preprint arXiv:2205.14660, 2022. (NAACL Workshop on SemEval 2022)
 
 **[ACS‘22]** Shuoyan Tan, Qianqian Zhang, **Jun Wang**, Peng Gao, Guotong Xie, Huanxiang Liu, Xiaojun Yao. Molecular Modeling Study on the Interaction Mechanism between the LRRK2 G2019S Mutant and Type I Inhibitors by Integrating Molecular Dynamics Simulation, Binding Free Energy Calculations, and Pharmacophore Modeling, ACS Chemical Neuroscience, 2022. (SCI，IF:4.4)
 
@@ -11,7 +11,7 @@
 
 **[arxiv‘22]** **Jun Wang**, Zhoujing Li, Yixuan Qiao, Qiming Qin, Peng Gao, Guotong Xie. Superpixel-Based Building Damage Detection from Post-earthquake Very High Resolution Imagery Using Deep Neural Networks, arXiv preprint arXiv:2112.04744, 2022.
 
-**[GLB WWW‘21]** Xianbin Ye, Ziliang Li, Fei Ma, Zongbi Yi, **Jun Wang**(corresponding author), Pengyong Li, Peng Gao, Guotong Xie. CandidateDrug4Cancer: An Open Molecular Graph Learning Benchmark on Drug Discovery for Cancer, The Web Conference 2021, Workshop on Graph Learning Benchmarks, 2021.
+**[WWW‘21]** Xianbin Ye, Ziliang Li, Fei Ma, Zongbi Yi, **Jun Wang**(corresponding author), Pengyong Li, Peng Gao, Guotong Xie. CandidateDrug4Cancer: An Open Molecular Graph Learning Benchmark on Drug Discovery for Cancer, The Web Conference 2021, Workshop on Graph Learning Benchmarks, 2021.
 
 **[BIB‘21]** Pengyong Li, **Jun Wang**(corresponding author), Yixuan Qiao, Hao Chen, Yihuan Yu, Xiaojun Yao, Peng Gao, Guotong Xie, Sen Song. An effective self-supervised framework for learning expressive molecular global representations to drug discovery, Briefings in Bioinformatics, 2021. (SCI，IF:11.6)
 
@@ -29,9 +29,11 @@
 
 **[ISBI‘20]** Suhui Yang, Xia Zhou, **Jun Wang**, Peng Gao, Guotong Xie. Unsupervised Domain Adaptation for Cross-Device OCT Lesion Detection via Learning Adaptive Features. International Symposium on Biomedical Imaging (ISBI), 2020.(EI)
 
-**[GRSL‘20]** Xin Ye, Mingchao Liu, **Jun Wang**, Qiming Qin, Huazhong Ren. Building-based damage detection from postquake image using multiple-feature analysis. IEEE Geoscience and Remote Sensing Letters, 2017. (SCI，IF: 4.0)
+**[GRSL‘17]** Xin Ye, Mingchao Liu, **Jun Wang**, Qiming Qin, Huazhong Ren. Building-based damage detection from postquake image using multiple-feature analysis. IEEE Geoscience and Remote Sensing Letters, 2017. (SCI，IF: 4.0)
 
 **[RSTA‘16]** **Jun Wang**, Qiming Qin, Xin Ye, Jianhhua Wang, Xuebin Qin, Xiucheng Yang. A Survey of Building Extraction Methods from Optical High Resolution Remote Sensing Imagery. Remote Sensing Technology and Application. 2016.
+
+**[ES‘16]** Xin Ye, **Jun Wang**, Qiming Qin. Damaged building detection based on GF-1 satellite remote sensing image: A case study for Nepal MS8.1 earthquake, Earthquake Science, 38(3): 477-485, 2016. 
 
 **[ICPR‘16]** Xuebin Qin, M Jagersand, Xiucheng Yang, **Jun Wang**. Building facade recognition from aerial images using Delaunay Triangulation induced feature perceptual grouping. ICPR, 2016.
 
@@ -43,6 +45,8 @@
 
 **[RS‘15]** Xiucheng Yang, Xuebin Qin, **Jun Wang**, Xin Ye, Qiming Qin. Building Façade Recognition Using Oblique Aerial Images. Remote Sensing. 2015: 8: 10562-10588. (SCI，IF：4.8)
 
+**[BSM‘15]** Xin Ye, **Jun Wang**, Qiming Qin, Jianhua Wang. Relief tent detection from high-resolution remote sensing image based on mathematical morphology and multi-angle template matching. Bulletin of Surveying and Mapping, 1(86), 2015.
+
 **[IGARSS‘15]** **Jun Wang**, Qiming Qin, Zhoujing Li, Xin Ye, Jianhua Wang, Xiucheng Yang, Xuebin Qin. Deep hierarchical representation and segmentation of high resolution remote sensing images. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2015. (EI / ISTP) 
 
 **[GRSL‘14]** **Jun Wang**, Xiucheng Yang, Xuebin Qin, Xin Ye, Qiming Qin. An Efficient Approach for Automatic Rectangular Building Extraction from Very High Resolution Optical Satellite Imagery. IEEE Geoscience and Remote Sensing Letters, 2014, 12(3):487-491. (SCI，IF: 4.0) 
@@ -52,6 +56,8 @@
 **[IGARSS‘14]** **Jun Wang**, Xuebin Qin, Xiucheng Yang, Zhongling Gao, Qiming Qin. Hyperspectral Predicting Model of Soil Salinity in Tianjin Costal Area Using Partial Least Square Regression. IEEE IGARSS, 2014: 3251-3254. (EI / ISTP)
 
 **[IGARSS‘14]** **Jun Wang**, Qiming Qin, Xin Ye, Zhongling Gao. Hierarchical Feature Representation of Geospatial Objects Using Morphological Pyramid Exploitation. IEEE IGARSS, 2014: 1789-1792. (EI / ISTP)
+
+**[IGARSS‘14]** Xin Ye, Qiming Qin, Mingchao Liu, **Jun Wang**, Jianhua Wang. Building damage detection from post-quake remote sensing image based on fuzzy reasoning. IEEE IGARSS, 2014: 529-532. (EI / ISTP)
 
 **[IGARSS‘13]** **Jun Wang**, Qiming Qin, Li Chen, Xin Ye, Xuebin Qin. Automatic Building Extraction from Very High Resolution Satallite Imagery Based on Line Segment Detection. IEEE IGARSS, 2013: 212-215. (EI / ISTP) 
 
