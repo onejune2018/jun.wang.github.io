@@ -67,42 +67,81 @@
 # 📝 Patents 
 
 **[Patent]** 	Object statistical method, device, equipment and storage medium based on image procossing 	CN-110298817-A	2019/10/1
+
 **[Patent]** 	Medical image sample screening method and device, computer equipment and storage medium 	CN-111666993-A	2020/9/15
+
 **[Patent]** 	Method, device and equipment for optimizing loss function and storage medium 	CN-111738408-A	2020/10/2
+
 **[Patent]** 	Visualization method and device for multi-source earth observation image processing, and storage medium 	WO-2020206914-A1	2020/10/15
+
 **[Patent]** 	Superobject information-based remote sensing image target extraction method, device, electronic apparatus, and medium 	WO-2020232905-A1	2020/11/26
+
 **[Patent]** 	Fundus oct picture-based lesion extraction method, apparatus and device, and storage medium 	WO-2020252900-A1	2020/12/24
+
 **[Patent]** 	Model compression method and device, computer equipment and storage medium 	CN-112132278-A	2020/12/25
+
 **[Patent]** 	Example segmentation model sample screening method and device, computer equipment and medium 	CN-112163634-A	2021/1/1
+
 **[Patent]** 	Drug molecule generation method, device, terminal device and storage medium 	CN-112309510-A	2021/2/2
+
 **[Patent]** 	Cell classification method and apparatus, medium and electronic device 	WO-2021051875-A1	2021/3/25
+
 **[Patent]** 	Data communication method, key management system, device, and storage medium 	CN-112671733-A	2021/4/16
+
 **[Patent]** 	Model training method, calling method, device, computer equipment and storage medium 	CN-112734034-A	2021/4/30
+
 **[Patent]** 	Image sample selection method and related apparatus 	WO-2021135330-A1	2021/7/8
+
 **[Patent]** 	Method, device, equipment and storage medium for predicting interaction between medicine and target 	CN-113160894-A	2021/7/23
+
 **[Patent]** 	Medical image classification method and apparatus, and medium and electronic device 	WO-2021147217-A1	2021/7/29
+
 **[Patent]** 	Graph neural network processing method and device, computer equipment and storage medium 	CN-113240071-A	2021/8/10
+
 **[Patent]** 	Image layering superpixel segmentation method and system, electronic device and storage medium 	CN-113240685-A	2021/8/10
+
 **[Patent]** 	Medicine classification method and apparatus, terminal device, and storage medium 	WO-2021159744-A1	2021/8/19
+
 **[Patent]** 	Method, device, equipment and storage medium for predicting curative effect of medicine based on deep learning 	CN-113299339-A	2021/8/24
+
 **[Patent]** 	Method and system for selecting augmentation strategy for image data 	WO-2021164228-A1	2021/8/26
+
 **[Patent]** 	Method and device for selecting sample image, storage medium and server 	WO-2021169301-A1	2021/9/2
+
 **[Patent]** 	Medical image generation method and apparatus, electronic device and medium 	WO-2021184576-A1	2021/9/23
+
 **[Patent]** 	Raw speech-based voiceprint recognition method, device, apparatus, and storage medium 	WO-2021217978-A1	2021/11/4
+
 **[Patent]** 	Voiceprint recognition method and apparatus, and device and storage medium 	WO-2021217979-A1	2021/11/4
-**[Patent]** 	Method, device and equipment for predicting properties of small drug molecules based on self-supervision learning 	CN-113707235-A	2021/11/26
+
+**[Patent]** 	Method, device and equipment for predicting properties of small drug molecules based on self-supervision learning 	CN-113707235-A	
+2021/11/26
 **[Patent]** 	Image instance labeling method based on artificial intelligence and related equipment 	CN-113705687-A	2021/11/26
+
 **[Patent]** 	Method, device and equipment for predicting properties of small drug molecules based on graph neural network 	CN-113707236-A	2021/11/26
+
 **[Patent]** 	Method and device for predicting RNA base unpaired probability 	CN-113782096-A	2021/12/10
+
 **[Patent]** 	Drug research and development model-based collaborative training method, system and storage medium 	CN-113782111-A	2021/12/10
+
 **[Patent]** 	Interface data processing method, device, storage medium and equipment 	CN-113821254-A	2021/12/21
+
 **[Patent]** 	Data aggregation processing method and device, computer equipment and storage medium 	CN-113986581-A	2022/1/28
+
 **[Patent]** 	Drug redirection model generation method and device, storage medium and computer equipment 	CN-114023397-A	2022/2/8
+
 **[Patent]** 	Artificial intelligence-based method and device for determining action relationship of drug target 	CN-114360639-A	2022/4/15
+
 **[Patent]** 	Information pushing method and device based on drug molecule image classification 	CN-114358202-A	2022/4/15
+
 **[Patent]** 	Medical image optimization method and apparatus, device, computer readable storage medium 	WO-2022077914-A1	2022/4/21
+
 **[Patent]** 	Drug molecule property prediction method, device and equipment based on comparative learning 	CN-114386694-A	2022/4/22
+
 **[Patent]** 	Image scene classification method and device based on graph neural network 	CN-114399002-A	2022/4/26
+
 **[Patent]** 	Artificial intelligence-based medicine characteristic information determination method and device 	CN-114417986-A	2022/4/29
+
 **[Patent]** 	Method and device for predicting property of drug molecule, storage medium and computer equipment 	CN-114613450-A	2022/6/10
+
 **[Patent]** 	Drug properties prediction method, device, storage medium and computer equipments	CN-114613450-A	2022/6/10
