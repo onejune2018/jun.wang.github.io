@@ -1,7 +1,15 @@
 
 # 📝 Publications 
 
-**[arxiv‘22]** Yixuan Qiao, Hao Chen, Yongquan Lai, **Jun Wang**, Tuozhen Liu, Xianbin Ye, Rui Fang, Peng Gao, Wenfeng Xie, Guotong Xie. PASH at TREC 2021 Deep Learning Track: Generative Enhanced Model for Multi-stage Ranking, arXiv preprint arXiv:2205.11245, 2022.
+**[BMVC'22]** Liang Diao*, Xin Tang*, **Jun Wang**, Rui Fang, Guotong Xie, Weifu Chen. Visual-Semantic Transformer for Scene Text Recognition, The 33rd British Machine Vision Conference, 2022.
+
+**[BMVC'22]** Bingcong Li*, Xin Tang*, **Jun Wang**, Liang Diao, Rui Fang, Guotong Xie, Weifu Chen. Parallel and Robust Text Rectifier for Scene Text Recognition, The 33rd British Machine Vision Conference, 2022.
+
+**[ISWC'22]** **Jun Wang**, Weixun Li, Changyu Hou, Xin Tang, Yixuan Qiao, Rui Fang, Pengyong Li, Peng Gao, Guotong Xie. HCL: Improving Graph Representation with Hierarchical Contrastive Learning, International Semantic Web Conference, 2022.
+
+**[JCO'22]** Tingyu Wen, Lixi Li, Yiqun Li, **Jun Wang**, Peng Gao, Guotong Xie, Fei Ma. A deep learning approach to discover cyclin-dependent kinases 12 (CDK12) inhibitors in breast cancer, American Society of Clinical Oncology, 2022.
+
+**[arxiv‘22]** Yixuan Qiao, Hao Chen, **Jun Wang**, Yongquan Lai, Tuozhen Liu, Xianbin Ye, Xin Tang, Rui Fang, Peng Gao, Wenfeng Xie, Guotong Xie. PASH at TREC 2021 Deep Learning Track: Generative Enhanced Model for Multi-stage Ranking, arXiv preprint arXiv:2205.11245, 2022.
 
 **[NAACL’22]** Changyu Hou, **Jun Wang**(corresponding author), Yixuan Qiao, Peng Jiang, Peng Gao, Guotong Xie, Qizhi Lin, Xiaopeng Wang, Xiandi Jiang, Benqi Wang, Qifeng Xiao. SFE-AI at SemEval-2022 Task 11: Low-Resource Named Entity Recognition using Large Pre-trained Language Models, arXiv preprint arXiv:2205.14660, 2022. (NAACL Workshop on SemEval 2022)
 
