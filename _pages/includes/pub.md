@@ -1,23 +1,23 @@
 
 # 📝 Publications 
 
-**[EJMC'23]** Tingyu Wen*, **Jun Wang***, Ruiqiang Lu*, Shuoyan Tan, Pengyong Li, Xiaojun Yao, Huangxiang Liu, Zongbi Yi, Peng Gao, Haili Qian, Guotong Xie, Fei Ma. Development, validation, and evaluation of a deep learning model to screen cyclin-dependent kinase 12 inhibitors in cancers, European Journal of Medicinal Chemistry, 2023.  (SCI，IF:7.1)
+**[EJMC'23]** Tingyu Wen\*, **Jun Wang\***, Ruiqiang Lu\*, Shuoyan Tan, Pengyong Li, Xiaojun Yao, Huangxiang Liu, Zongbi Yi, Peng Gao, Haili Qian, Guotong Xie, Fei Ma. Development, validation, and evaluation of a deep learning model to screen cyclin-dependent kinase 12 inhibitors in cancers, European Journal of Medicinal Chemistry, 2023.  (SCI，IF:7.1)
 
-**[ACS'23]** Shuoyan Tan, Ruiqiang Lu, Dahong Yao, **Jun Wang***, Peng Gao, Guotong Xie, Huanxiang Liu, Xiaojun Yao*. Identification of LRRK2 Inhibitors through Computational Drug Repurposing, ACS Chemical Neuroscience, 2023.  (SCI，IF:5.8)
+**[ACS'23]** Shuoyan Tan, Ruiqiang Lu, Dahong Yao, **Jun Wang\***(corresponding), Peng Gao, Guotong Xie, Huanxiang Liu, Xiaojun Yao\*. Identification of LRRK2 Inhibitors through Computational Drug Repurposing, ACS Chemical Neuroscience, 2023.  (SCI，IF:5.8)
 
-**[ICASSP'23]** Xiaorui Wang, **Jun Wang***, Xin Tang, Peng Gao, Rui Fang, Guotong Xie*. Filter Pruning via Filters Similarity in Consecutive Layers, International Conference on Acoustics, Speech and Signal Processing, 2023. (CCF-B)
+**[ICASSP'23]** Xiaorui Wang, **Jun Wang\***(corresponding), Xin Tang, Peng Gao, Rui Fang, Guotong Xie*. Filter Pruning via Filters Similarity in Consecutive Layers, International Conference on Acoustics, Speech and Signal Processing, 2023. (CCF-B)
 
-**[BMVC'22]** Liang Diao*, Xin Tang*, **Jun Wang**, Rui Fang, Guotong Xie, Weifu Chen. Visual-Semantic Transformer for Scene Text Recognition, The 33rd British Machine Vision Conference, 2022. (CCF-C)
+**[BMVC'22]** Liang Diao\*, Xin Tang\*, **Jun Wang**, Rui Fang, Guotong Xie, Weifu Chen. Visual-Semantic Transformer for Scene Text Recognition, The 33rd British Machine Vision Conference, 2022. (CCF-C)
 
-**[BMVC'22]** Bingcong Li*, Xin Tang*, **Jun Wang**, Liang Diao, Rui Fang, Guotong Xie, Weifu Chen. Parallel and Robust Text Rectifier for Scene Text Recognition, The 33rd British Machine Vision Conference, 2022. (CCF-C)
+**[BMVC'22]** Bingcong Li\*, Xin Tang\*, **Jun Wang**, Liang Diao, Rui Fang, Guotong Xie, Weifu Chen. Parallel and Robust Text Rectifier for Scene Text Recognition, The 33rd British Machine Vision Conference, 2022. (CCF-C)
 
 **[ISWC'22]** **Jun Wang**, Weixun Li, Changyu Hou, Xin Tang, Yixuan Qiao, Rui Fang, Pengyong Li, Peng Gao, Guotong Xie. HCL: Improving Graph Representation with Hierarchical Contrastive Learning, International Semantic Web Conference, 2022. (CCF-B)
 
 **[JCO'22]** Tingyu Wen, Lixi Li, Yiqun Li, **Jun Wang**, Peng Gao, Guotong Xie, Fei Ma. A deep learning approach to discover cyclin-dependent kinases 12 (CDK12) inhibitors in breast cancer, American Society of Clinical Oncology, 2022.
 
-**[arxiv‘22]** Yixuan Qiao, Hao Chen, **Jun Wang**, Yongquan Lai, Tuozhen Liu, Xianbin Ye, Xin Tang, Rui Fang, Peng Gao, Wenfeng Xie, Guotong Xie. PASH at TREC 2021 Deep Learning Track: Generative Enhanced Model for Multi-stage Ranking, arXiv preprint arXiv:2205.11245, 2022.
+**[arxiv‘22]** Yixuan Qiao, Hao Chen, **Jun Wang**, Tuozhen Liu, Xianbin Ye, Xin Tang, Rui Fang, Peng Gao, Wenfeng Xie, Guotong Xie. PASH at TREC 2021 Deep Learning Track: Generative Enhanced Model for Multi-stage Ranking, arXiv preprint arXiv:2205.11245, 2022.
 
-**[NAACL’22]** Changyu Hou, **Jun Wang**(corresponding author), Yixuan Qiao, Peng Jiang, Peng Gao, Guotong Xie, Qizhi Lin, Xiaopeng Wang, Xiandi Jiang, Benqi Wang, Qifeng Xiao. SFE-AI at SemEval-2022 Task 11: Low-Resource Named Entity Recognition using Large Pre-trained Language Models, arXiv preprint arXiv:2205.14660, 2022. (NAACL Workshop on SemEval 2022)
+**[NAACL’22]** Changyu Hou, **Jun Wang\***, Yixuan Qiao, Peng Jiang, Peng Gao, Guotong Xie, Qizhi Lin, Xiaopeng Wang, Xiandi Jiang, Benqi Wang, Qifeng Xiao. SFE-AI at SemEval-2022 Task 11: Low-Resource Named Entity Recognition using Large Pre-trained Language Models, arXiv preprint arXiv:2205.14660, 2022. (NAACL Workshop on SemEval 2022)
 
 **[ACS‘22]** Shuoyan Tan, Qianqian Zhang, **Jun Wang**, Peng Gao, Guotong Xie, Huanxiang Liu, Xiaojun Yao. Molecular Modeling Study on the Interaction Mechanism between the LRRK2 G2019S Mutant and Type I Inhibitors by Integrating Molecular Dynamics Simulation, Binding Free Energy Calculations, and Pharmacophore Modeling, ACS Chemical Neuroscience, 2022. (SCI，IF:5.8)
 
@@ -25,9 +25,9 @@
 
 **[arxiv‘22]** **Jun Wang**, Zhoujing Li, Yixuan Qiao, Qiming Qin, Peng Gao, Guotong Xie. Superpixel-Based Building Damage Detection from Post-earthquake Very High Resolution Imagery Using Deep Neural Networks, arXiv preprint arXiv:2112.04744, 2022.
 
-**[WWW‘21]** Xianbin Ye, Ziliang Li, Fei Ma, Zongbi Yi, **Jun Wang**(corresponding author), Pengyong Li, Peng Gao, Guotong Xie. CandidateDrug4Cancer: An Open Molecular Graph Learning Benchmark on Drug Discovery for Cancer, The Web Conference 2021, Workshop on Graph Learning Benchmarks, 2021.
+**[WWW‘21]** Xianbin Ye, Ziliang Li, Fei Ma, Zongbi Yi, **Jun Wang\***(corresponding), Pengyong Li, Peng Gao, Guotong Xie. CandidateDrug4Cancer: An Open Molecular Graph Learning Benchmark on Drug Discovery for Cancer, The Web Conference 2021, Workshop on Graph Learning Benchmarks, 2021.
 
-**[BIB‘21]** Pengyong Li, **Jun Wang**(corresponding author), Yixuan Qiao, Hao Chen, Yihuan Yu, Xiaojun Yao, Peng Gao, Guotong Xie, Sen Song. An effective self-supervised framework for learning expressive molecular global representations to drug discovery, Briefings in Bioinformatics, 2021. (SCI，IF:14.0)
+**[BIB‘21]** Pengyong Li, **Jun Wang**(corresponding), Yixuan Qiao, Hao Chen, Yihuan Yu, Xiaojun Yao, Peng Gao, Guotong Xie, Sen Song. An effective self-supervised framework for learning expressive molecular global representations to drug discovery, Briefings in Bioinformatics, 2021. (SCI，IF:14.0)
 
 **[IJCAI‘21]** Pengyong Li, **Jun Wang**(co-fisrt author),Yixuan Qiao, Peng Gao, Seng Song, Guotong Xie. Pairwise Subgraph Discrimination: Self-supervised Strategy for Graph-level Representation Learning, IJCAI, 2021. (Top AI conference, CCF-A, rate 13.9%)
 
