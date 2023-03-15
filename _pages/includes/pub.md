@@ -27,11 +27,11 @@
 
 **[WWW‘21]** Xianbin Ye, Ziliang Li, Fei Ma, Zongbi Yi, **Jun Wang\***(corresponding), Pengyong Li, Peng Gao, Guotong Xie. CandidateDrug4Cancer: An Open Molecular Graph Learning Benchmark on Drug Discovery for Cancer, The Web Conference 2021, Workshop on Graph Learning Benchmarks, 2021.
 
-**[BIB‘21]** Pengyong Li, **Jun Wang**(corresponding), Yixuan Qiao, Hao Chen, Yihuan Yu, Xiaojun Yao, Peng Gao, Guotong Xie, Sen Song. An effective self-supervised framework for learning expressive molecular global representations to drug discovery, Briefings in Bioinformatics, 2021. (SCI，IF:14.0)
+**[BIB‘21]** Pengyong Li, **Jun Wang\***(corresponding), Yixuan Qiao, Hao Chen, Yihuan Yu, Xiaojun Yao, Peng Gao, Guotong Xie, Sen Song. An effective self-supervised framework for learning expressive molecular global representations to drug discovery, Briefings in Bioinformatics, 2021. (SCI，IF:14.0)
 
 **[IJCAI‘21]** Pengyong Li, **Jun Wang**(co-fisrt author),Yixuan Qiao, Peng Gao, Seng Song, Guotong Xie. Pairwise Subgraph Discrimination: Self-supervised Strategy for Graph-level Representation Learning, IJCAI, 2021. (Top AI conference, CCF-A, rate 13.9%)
 
-**[arxiv‘21]** Pengyong Li, **Jun Wang**(corresponding author), Peng Gao, Seng Song, Guotong Xie. Learn molecular representations from large-scale unlabeled molecules for drug discovery, arXiv, 2021.
+**[arxiv‘21]** Pengyong Li, **Jun Wang\***(corresponding), Peng Gao, Seng Song, Guotong Xie. Learn molecular representations from large-scale unlabeled molecules for drug discovery, arXiv, 2021.
 
 **[TextVQA‘21]** Yixuan Qiao, Hao Chen, **Jun Wang**, Yihao Chen, Xianbin Ye, Ziliang Li, Xianbiao Qi, Peng Gao, Guotong Xie. Winner Team Mia at TextVQA Challenge 2021: Vision-and-Language Representation Learning with Pre-trained Sequence-to-Sequence Model, arXiv preprint arXiv:2106.15332, 2021. (Winner at TextVQA 2021)
 
@@ -39,7 +39,7 @@
 
 **[TREC‘20]** Yixuan Qiao, Hao Chen, Liyu Cao, Liping Chen, Pengyong Li, **Jun Wang**, Peng Gao, Yuan Ni, Guotong Xie. PASH at TREC 2020 Deep Learning Track: Dense Matching for Nested Ranking. TREC, 2020. (Winner)
 
-**[BMVC‘20]** **Jun Wang**, Wen Shaoguo, Gao Peng, Xie Guotong. Semi-supervised Active Learning for Medical Instance Segmentation via Scoring Predictions. BMVC, 2020. ( Top CV conference, rate 29%)
+**[BMVC‘20]** **Jun Wang\***, Wen Shaoguo\*, Gao Peng, Xie Guotong. Semi-supervised Active Learning for Medical Instance Segmentation via Scoring Predictions. BMVC, 2020. ( Top CV conference, rate 29%)
 
 **[ISBI‘20]** Suhui Yang, Xia Zhou, **Jun Wang**, Peng Gao, Guotong Xie. Unsupervised Domain Adaptation for Cross-Device OCT Lesion Detection via Learning Adaptive Features. International Symposium on Biomedical Imaging (ISBI), 2020.(EI)
 
