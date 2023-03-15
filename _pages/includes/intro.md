@@ -14,8 +14,8 @@ Visiting Scholar @ **ETH Zurich**, with Dr. Emmanuel Baltsavias @ Prof. Konrad S
 
 **Commercial Projects** in computational vision, healthcare, drug discovery and deep learning platform. 
 
-Published **40+ papers** in deep learning and other fields (including IJCAI, BMVC, NeuroComputing, Pattern Recognition, BIB, IEEE GRSL, WWW, Remote Sensing, etc.), served as **reviewer** for multiple journals and conferences. 
+Published **50+ papers** in deep learning and other fields (including IJCAI, BMVC, NeuroComputing, Pattern Recognition, BIB, EJMC, IEEE GRSL, WWW, Remote Sensing, etc.), served as **reviewer** for multiple journals and conferences. 
 
-Applied for **40+ patents**, and won the **National Scholarship @PKU**, IBM Outstanding Technical Achievement Award.
+Applied for **100+ patents**, and won the **National Scholarship @PKU**, IBM Outstanding Technical Achievement Award.
 
-**Wimner of AI Challenges**: the MIT AI cure, VQA, EAD, TREC, SemEval.
+**Winner of AI Challenges**: the MIT AI cure, VQA, EAD, AI_Challenger, TREC, SemEval.
