@@ -1,3 +1,3 @@
 # 🔥 News
-- *2022.05*: Winner at TREC 2021
-- *2022.03*: Winner at SemEval Task2
+- *2023.03*: AI-based Drug Discovery work published on European Journal of Medicinal Chemistry (Cooperation with National Cancer Center / Chinese Academy of Medical Sciences)
+- *2023.03*: Model Compression work accepted by ICASSP
