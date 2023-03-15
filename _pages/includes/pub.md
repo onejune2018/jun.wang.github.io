@@ -5,7 +5,7 @@
 
 **[ACS'23]** Shuoyan Tan, Ruiqiang Lu, Dahong Yao, **Jun Wang***, Peng Gao, Guotong Xie, Huanxiang Liu, Xiaojun Yao*. Identification of LRRK2 Inhibitors through Computational Drug Repurposing, ACS Chemical Neuroscience, 2023.  (SCI，IF:5.8)
 
-**[ICASSP'22]** Xiaorui Wang, **Jun Wang***, Xin Tang, Peng Gao, Rui Fang, Guotong Xie*. Filter Pruning via Filters Similarity in Consecutive Layers, International Conference on Acoustics, Speech and Signal Processing, 2023. (CCF-B)
+**[ICASSP'23]** Xiaorui Wang, **Jun Wang***, Xin Tang, Peng Gao, Rui Fang, Guotong Xie*. Filter Pruning via Filters Similarity in Consecutive Layers, International Conference on Acoustics, Speech and Signal Processing, 2023. (CCF-B)
 
 **[BMVC'22]** Liang Diao*, Xin Tang*, **Jun Wang**, Rui Fang, Guotong Xie, Weifu Chen. Visual-Semantic Transformer for Scene Text Recognition, The 33rd British Machine Vision Conference, 2022. (CCF-C)
 
