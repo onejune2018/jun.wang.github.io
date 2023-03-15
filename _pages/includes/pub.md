@@ -1,11 +1,17 @@
 
 # 📝 Publications 
 
-**[BMVC'22]** Liang Diao*, Xin Tang*, **Jun Wang**, Rui Fang, Guotong Xie, Weifu Chen. Visual-Semantic Transformer for Scene Text Recognition, The 33rd British Machine Vision Conference, 2022.
+**[EJMC'23]** Tingyu Wen*, **Jun Wang***, Ruiqiang Lu*, Shuoyan Tan, Pengyong Li, Xiaojun Yao, Huangxiang Liu, Zongbi Yi, Peng Gao, Haili Qian, Guotong Xie, Fei Ma. Development, validation, and evaluation of a deep learning model to screen cyclin-dependent kinase 12 inhibitors in cancers, European Journal of Medicinal Chemistry, 2023.  (SCI，IF:7.1)
 
-**[BMVC'22]** Bingcong Li*, Xin Tang*, **Jun Wang**, Liang Diao, Rui Fang, Guotong Xie, Weifu Chen. Parallel and Robust Text Rectifier for Scene Text Recognition, The 33rd British Machine Vision Conference, 2022.
+**[ACS'23]** Shuoyan Tan, Ruiqiang Lu, Dahong Yao, **Jun Wang***, Peng Gao, Guotong Xie, Huanxiang Liu, Xiaojun Yao*. Identification of LRRK2 Inhibitors through Computational Drug Repurposing, ACS Chemical Neuroscience, 2023.  (SCI，IF:5.8)
 
-**[ISWC'22]** **Jun Wang**, Weixun Li, Changyu Hou, Xin Tang, Yixuan Qiao, Rui Fang, Pengyong Li, Peng Gao, Guotong Xie. HCL: Improving Graph Representation with Hierarchical Contrastive Learning, International Semantic Web Conference, 2022.
+**[ICASSP'22]** Xiaorui Wang, **Jun Wang***, Xin Tang, Peng Gao, Rui Fang, Guotong Xie*. Filter Pruning via Filters Similarity in Consecutive Layers, International Conference on Acoustics, Speech and Signal Processing, 2023. (CCF-B)
+
+**[BMVC'22]** Liang Diao*, Xin Tang*, **Jun Wang**, Rui Fang, Guotong Xie, Weifu Chen. Visual-Semantic Transformer for Scene Text Recognition, The 33rd British Machine Vision Conference, 2022. (CCF-C)
+
+**[BMVC'22]** Bingcong Li*, Xin Tang*, **Jun Wang**, Liang Diao, Rui Fang, Guotong Xie, Weifu Chen. Parallel and Robust Text Rectifier for Scene Text Recognition, The 33rd British Machine Vision Conference, 2022. (CCF-C)
+
+**[ISWC'22]** **Jun Wang**, Weixun Li, Changyu Hou, Xin Tang, Yixuan Qiao, Rui Fang, Pengyong Li, Peng Gao, Guotong Xie. HCL: Improving Graph Representation with Hierarchical Contrastive Learning, International Semantic Web Conference, 2022. (CCF-B)
 
 **[JCO'22]** Tingyu Wen, Lixi Li, Yiqun Li, **Jun Wang**, Peng Gao, Guotong Xie, Fei Ma. A deep learning approach to discover cyclin-dependent kinases 12 (CDK12) inhibitors in breast cancer, American Society of Clinical Oncology, 2022.
 
@@ -23,7 +29,7 @@
 
 **[BIB‘21]** Pengyong Li, **Jun Wang**(corresponding author), Yixuan Qiao, Hao Chen, Yihuan Yu, Xiaojun Yao, Peng Gao, Guotong Xie, Sen Song. An effective self-supervised framework for learning expressive molecular global representations to drug discovery, Briefings in Bioinformatics, 2021. (SCI，IF:14.0)
 
-**[IJCAI‘21]** Pengyong Li, **Jun Wang**(co-fisrt author),Yixuan Qiao, Peng Gao, Seng Song, Guotong Xie. Pairwise Subgraph Discrimination: Self-supervised Strategy for Graph-level Representation Learning, IJCAI, 2021. (Top AI conference , rate 13.9%)
+**[IJCAI‘21]** Pengyong Li, **Jun Wang**(co-fisrt author),Yixuan Qiao, Peng Gao, Seng Song, Guotong Xie. Pairwise Subgraph Discrimination: Self-supervised Strategy for Graph-level Representation Learning, IJCAI, 2021. (Top AI conference, CCF-A, rate 13.9%)
 
 **[arxiv‘21]** Pengyong Li, **Jun Wang**(corresponding author), Peng Gao, Seng Song, Guotong Xie. Learn molecular representations from large-scale unlabeled molecules for drug discovery, arXiv, 2021.
 
