@@ -1,7 +1,9 @@
 
 # 📝 Publications 
 
-**[EJMC'23]** Tingyu Wen\*, **Jun Wang\***, Ruiqiang Lu\*, Shuoyan Tan, Pengyong Li, Xiaojun Yao, Huangxiang Liu, Zongbi Yi, Peng Gao, Haili Qian, Guotong Xie, Fei Ma. Development, validation, and evaluation of a deep learning model to screen cyclin-dependent kinase 12 inhibitors in cancers, European Journal of Medicinal Chemistry, 2023.  (SCI，IF:7.1)
+**[BIB'23]** Ruiqiang Lu\*, **Jun Wang\***, Pengyong Li, Yuquan Li, Shuoyan Tan, Yiting Pan, Huanxiang Liu, Peng Gao, Guotong Xie, Xiaojun Yao. Improving drug-target affinity prediction via feature fusion and knowledge distillation, Briefings in Bioinformatics, 2023. (SCI，IF:14.0)
+
+**[EJMC'23]** Tingyu Wen\*, **Jun Wang\***, Ruiqiang Lu, Shuoyan Tan, Pengyong Li, Xiaojun Yao, Huangxiang Liu, Zongbi Yi, Peng Gao, Haili Qian, Guotong Xie, Fei Ma. Development, validation, and evaluation of a deep learning model to screen cyclin-dependent kinase 12 inhibitors in cancers, European Journal of Medicinal Chemistry, 2023.  (SCI，IF:7.1)
 
 **[ACS'23]** Shuoyan Tan, Ruiqiang Lu, Dahong Yao, **Jun Wang\***(corresponding), Peng Gao, Guotong Xie, Huanxiang Liu, Xiaojun Yao\*. Identification of LRRK2 Inhibitors through Computational Drug Repurposing, ACS Chemical Neuroscience, 2023.  (SCI，IF:5.8)
 
