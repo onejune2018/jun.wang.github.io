@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jun Wang (王俊)"
-description              : "Research scientist in PingAn. Graduated from Peking University. Focusing on CV, Graph and movie."
+description              : "Expert Research scientist. Graduated from Peking University. Interesting in CV, Graph and DL."
 repository               : "https://github.com/onejune2018/homepage"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Jun Wang (王俊)"
+  name             : "Jun Wang"
   avatar           : "images/ry_profile.jpeg"
-  bio              : "PingAn SFE"
+  bio              : "AI Platform"
   location         : "China"
   employer         :
   pubmed           : 
