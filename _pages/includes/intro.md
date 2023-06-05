@@ -10,7 +10,7 @@ Email: [junwang.deeplearning@gmail.com](mailto:junwang.deeplearning@gmail.com).
 
 2015-2015, Visiting Scholar at **ETH Zurich**, with Dr. Emmanuel Baltsavias @ Konrad Schindler’s Group, Zurich, Switzerland.
 
-2011-2012, Assistant Software Engineer at **Institute of Software, the Chinese Academy of Sciences**, Beijing, China.
+2011-2012, Assistant Software Engineer at **Institute of Software, Chinese Academy of Sciences**, Beijing, China.
 
 ### Achievement
 
