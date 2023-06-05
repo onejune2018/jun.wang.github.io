@@ -1,21 +1,23 @@
-I am working as a expert algorithm researcher of Ping An deep learning Platform Team, leading the innovation team and fundamental research. 
+### About
 
-If interested, feel free to email me at [junwang.deeplearning@gmail.com](mailto:junwang.deeplearning@gmail.com).
+I am currently an expert algorithm researcher of PingAn AI Platform Team, leading the innovation team and fundamental research. I obtain my Ph.D. at Peking University in 2016.
 
-**Ph.D @ Peking University** (2012-2016).
+Email: [junwang.deeplearning@gmail.com](mailto:junwang.deeplearning@gmail.com).
 
-Research scientist @ **IBM China Research China** (2016-2018)
+### Work Experience
 
-Assistant Software Engineer @ **Institute of Software, the Chinese Academy of Sciences** (2011-2012).
+2016-2018, Research scientist at **IBM Research**, Beijing, China.
 
-Visiting Scholar @ **ETH Zurich**, with Dr. Emmanuel Baltsavias @ Prof. Konrad Schindler’s Group (2015).
+2015-2015, Visiting Scholar at **ETH Zurich**, with Dr. Emmanuel Baltsavias @ Konrad Schindler’s Group, Zurich, Switzerland.
 
-**National Scientific Projects** (863, 973, NSFC) in image recognition, smart city, etc.
+2011-2012, Assistant Software Engineer at **Institute of Software, the Chinese Academy of Sciences**, Beijing, China.
 
-**Commercial Projects** in computational vision, healthcare, drug discovery and deep learning platform. 
+### Achievement
 
-Published **50+ papers** in deep learning and other fields (including IJCAI, BMVC, NeuroComputing, Pattern Recognition, BIB, EJMC, IEEE GRSL, WWW, Remote Sensing, etc.), served as **reviewer** for multiple journals and conferences. 
+Published **50+ papers** in deep learning and related fields (including IJCAI, BMVC, NeuroComputing, Pattern Recognition, BIB, EJMC, IEEE GRSL, WWW, Remote Sensing, etc.)
 
-Applied for **100+ patents**, and won the **National Scholarship @PKU**, IBM Outstanding Technical Achievement Award.
+Served as **reviewer** for multiple journals and conferences. Applied for **100+ patents**.
 
-**Winner of AI Challenges**: the MIT AI cure, VQA, EAD, AI_Challenger, TREC, SemEval.
+Won the **National Scholarship at PKU**, Basketball Champion at PKU-SESS, Outstanding Technical Achievement Award at IBM, Anual Top 20 at PATech.
+
+**Winner of AI Competition**: the MIT AI cure, VQA, EAD, AI_Challenger, TREC, SemEval.
