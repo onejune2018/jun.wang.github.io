@@ -1,4 +1,4 @@
-I am working as a senior algorithm researcher of Ping An deep learning Platform SFE team, leading the innovation team and doing some fundamental research. 
+I am working as a expert algorithm researcher of Ping An deep learning Platform Team, leading the innovation team and fundamental research. 
 
 If interested, feel free to email me at [junwang.deeplearning@gmail.com](mailto:junwang.deeplearning@gmail.com).
 
