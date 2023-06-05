@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jun Wang (王俊)"
+title                    : "Jun Wang   (王俊)"
 description              : "Expert Research scientist. Graduated from Peking University. Interesting in CV, Graph and DL."
 repository               : "https://github.com/onejune2018/homepage"
 google_scholar_stats_use_cdn : true
