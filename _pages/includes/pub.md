@@ -1,5 +1,6 @@
 
 # 📝 Publications 
+**[ACS'23]** Shuoyan Tan, Jun Wang, Peng Gao, Guotong Xie, Qianqian Zhang, Huanxiang Liu, Xiaojun Yao. Unveiling the Selectivity Mechanism of Type-I LRRK2 Inhibitors by Computational Methods: Insights from Binding Thermodynamics and Kinetics Simulation, ACS Chemical Neuroscience, 2023.  (SCI，IF:5.8)
 
 **[BIB'23]** Ruiqiang Lu\*, **Jun Wang\***, Pengyong Li, Yuquan Li, Shuoyan Tan, Yiting Pan, Huanxiang Liu, Peng Gao, Guotong Xie, Xiaojun Yao. Improving drug-target affinity prediction via feature fusion and knowledge distillation, Briefings in Bioinformatics, 2023. (SCI，IF:14.0)
 
