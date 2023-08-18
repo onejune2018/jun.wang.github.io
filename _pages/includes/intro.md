@@ -16,8 +16,10 @@ Email: [junwang.deeplearning@gmail.com](mailto:junwang.deeplearning@gmail.com).
 
 Published **50+ papers** in deep learning and related fields (including IJCAI, BMVC, NeuroComputing, Pattern Recognition, BIB, EJMC, IEEE GRSL, WWW, Remote Sensing, etc.)
 
-Served as **reviewer** for multiple journals and conferences. Applied for **100+ patents**.
+Applied for **120+ patents of invention** in AI (**20 granted patents**).
 
-Won the **National Scholarship at PKU**, Basketball Champion at PKU-SESS, Outstanding Technical Achievement Award at IBM, Anual Top 20 at PATech.
+Served as **Reviewer** for multiple journals and conferences.
 
-**Winner of AI Competition**: the MIT AI cure, VQA, EAD, AI_Challenger, TREC, SemEval.
+Won the **Outstanding Technical Achievement Award at IBM**, **National Scholarship at PKU**, Basketball Champion at PKU-SESS,  Anual Top 20 staff at PATech.
+
+**Numerous Winner of AI Competition**: MIT AI-cure-2020, VQA-2021, EAD-2019, AI-Challenger-2018, TREC-2020, SemEval-2022.
