@@ -1,10 +1,12 @@
 ### About
 
-I am currently an expert algorithm researcher of PingAn AI Platform Team, leading the innovation team and fundamental research. I obtain my Ph.D. at Peking University in 2016.
+I am currently an expert algorithm researcher of PingAn AI Platform, leading the innovation team and fundamental research. I obtain my Ph.D. from Peking University in 2016.
 
 Email: [junwang.deeplearning@gmail.com](mailto:junwang.deeplearning@gmail.com).
 
-### Work Experience
+### Work Experiences
+
+2018-2024, Expert Research scientist/Tech Leader at **PingAn AI Platform**, Beijing, China.
 
 2016-2018, Research scientist at **IBM Research**, Beijing, China.
 
@@ -12,11 +14,11 @@ Email: [junwang.deeplearning@gmail.com](mailto:junwang.deeplearning@gmail.com).
 
 2011-2012, Assistant Software Engineer at **Institute of Software, Chinese Academy of Sciences**, Beijing, China.
 
-### Achievement
+### Achievements
 
 Published **50+ papers** in deep learning and related fields (including IJCAI, BMVC, NeuroComputing, Pattern Recognition, BIB, EJMC, IEEE GRSL, WWW, Remote Sensing, etc.)
 
-Applied for **120+ patents of invention** in AI (**20 granted patents**).
+Applied for **120+ patents of invention** in AI (**36 granted patents**).
 
 Served as **Reviewer** for multiple journals and conferences.
 
